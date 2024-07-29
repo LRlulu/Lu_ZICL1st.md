@@ -55,10 +55,19 @@ timezone: Asia/Bangkok
 
 ### 2024.07.29
 
-举例示范：
-
-- 学习主题：XXXX
-- 学习内容小结：XXXX（鼓励用自己的语言描述学到的知识）
+- 学习主题：what is ZK?
+- 学习内容小结：
+1) What is ZK -> Zero-Knowledge.
+It is a proof. A prover can convince a verifier that sth is true without additional info.
+data -> info -> knowledge
+it is called knowledge, not data or info, coz it could predict the future -> 有些像是哲学里的先验
+3) Why ZK and why it is good?
+not for efficiency, but for building more trust & keep secret. Examples can be seen in elections, multi-party computation and so on.
+It uses randomness to bring ppl together. Non-interactive nature + varifiability. It is counter-intuitive.
+- 遗留的问题：
+any other proofs?
+what's the diffrence btw blockchains & cryptocurrencies?
+Concept of NP-complete problems & map three-coloring
 
 ### 2024.07.30
 
